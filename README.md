@@ -1,6 +1,18 @@
 ## Predict student performance in secondary education (Regression)
 
-### Data Source: https://archive.ics.uci.edu/ml/datasets/student%2Bperformance
+### Objective:
+The objective of this project is to determine the various factors affecting the test 
+score and thus build a linear regression model depicting the effects of these factors.
+
+### Methodology:
+Multiple linear regression model is used to predict the test scores by successively 
+adding the most significant attribute affecting the test score based on various factors like 
+correlation coefficient, adjusted R-square, RSE, etc.
+
+### Data Source: 
+Paulo Cortez, University of Minho, GuimarÃ£es, Portugal        
+Dataset: Student performance in secondary school (for 1 subject)      
+https://archive.ics.uci.edu/ml/datasets/student%2Bperformance
 
 ### Columns:
 
